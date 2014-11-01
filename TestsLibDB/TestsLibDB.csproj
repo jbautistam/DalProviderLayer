@@ -82,9 +82,6 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <WCFMetadata Include="Service References\" />
-  </ItemGroup>
-  <ItemGroup>
     <ProjectReference Include="..\Providers\LibDBProvidersBase\LibDBProvidersBase.csproj">
       <Project>{e4b1483c-1243-4d6e-b536-37bc3774b32a}</Project>
       <Name>LibDBProvidersBase</Name>
